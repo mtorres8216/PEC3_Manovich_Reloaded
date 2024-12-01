@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Ejemplos de Hibridación: Instagram y TikTok
 
 ### Recurso de aprendizaje de Cultura Digital 
 
