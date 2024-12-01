@@ -1,4 +1,4 @@
-# PEC3,ejemplos de Hibridación: Instagram y TikTok
+# PEC3: Ejemplos de hibridación entre Instagram y TikTok
 
 ### Recurso de aprendizaje de Cultura Digital 
 
