@@ -12,6 +12,12 @@ Fecha:
 
 
 
+## 1. Instagram: Fusión de fotografía digital y redes sociales
+
+Instagram es una de las plataformas más representativas de la hibridación tecnológica. Combina la fotografía digital con las redes sociales, lo que crea un espacio donde los usuarios pueden capturar, editar y compartir imágenes y videos, todo desde la palma de su mano. A través de filtros, herramientas de edición y la posibilidad de compartir contenido instantáneamente con seguidores, Instagram ha transformado la fotografía en un proceso social y colectivo.
+
+
+
 ## Planteamiento
 
 
