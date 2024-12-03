@@ -22,7 +22,7 @@ Lev Manovich, en su obra *El software toma el mando*, identifica cinco principio
 
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## **Caso 1: Instagram como ejemplo de hibridación digital**
 
 ![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/7/7f/Instagram_app_on_smartphone_%28grass_background%29_%28cropped%29.jpg) 
 
@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## **Caso 2: TikTok como ejemplo de hibridación digital**
 ![Cultura Digital](https://images.pexels.com/photos/7481981/pexels-photo-7481981.jpeg) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
