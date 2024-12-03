@@ -46,4 +46,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
 Imágen CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
-Imágen CC BY [Santeri Viinamäki]([https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/](https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background)_(cropped).jpg))
+Imágen CC BY [Santeri Viinamäki](https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background)_(cropped).jpg))
