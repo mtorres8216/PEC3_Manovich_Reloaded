@@ -18,6 +18,7 @@ Fecha:
 
 Lev Manovich, en su libro *El lenguaje de los nuevos medios de comunicación* (*The Language of New Media*, 2001), establece cinco principios fundamentales que caracterizan a los nuevos medios digitales: **numeración**, **modularidad**, **automatización**, **variabilidad** y **transcodificación**. Estas dimensiones explican cómo los medios digitales se diferencian de los analógicos y cómo el software redefine la producción, distribución y consumo de medios.
 
+Más tarde, en su obra *El software toma el mando* (2013), Manovich amplía su análisis para explorar cómo el software se convierte en un agente central en la cultura contemporánea, reconfigurando los medios en entornos híbridos y participativos. Este ensayo utiliza estas ideas para analizar dos plataformas emblemáticas de hibridación digital: **Instagram** y **TikTok**, ilustrando cómo se aplican las dimensiones de Manovich a estos casos.
 
 
 
