@@ -3,7 +3,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Juan
+Autor: Moisés
 
 
 Fecha: 
