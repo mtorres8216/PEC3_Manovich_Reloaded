@@ -12,16 +12,14 @@ Fecha:
 
 
 
-## 1. Instagram: Fusión de fotografía digital y redes sociales
-
-Instagram es una de las plataformas más representativas de la hibridación tecnológica. Combina la fotografía digital con las redes sociales, lo que crea un espacio donde los usuarios pueden capturar, editar y compartir imágenes y videos, todo desde la palma de su mano. A través de filtros, herramientas de edición y la posibilidad de compartir contenido instantáneamente con seguidores, Instagram ha transformado la fotografía en un proceso social y colectivo.
 
 
+## **Planteamiento: La hibridación digital y las dimensiones de Manovich**
 
-## Planteamiento
+Lev Manovich, en su obra *El software toma el mando*, identifica cinco principios fundamentales que caracterizan a los nuevos medios digitales: **numeración**, **modularidad**, **automatización**, **variabilidad** y **transcodificación**. Estos principios no solo explican las transformaciones tecnológicas de los medios, sino también los cambios culturales que estos generan.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 
 ## Re-descubriendo la hibridacion: Caso 1
