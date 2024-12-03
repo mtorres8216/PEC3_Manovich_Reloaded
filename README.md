@@ -16,7 +16,7 @@ Fecha:
 
 ## **Planteamiento: La hibridación digital y las dimensiones de Manovich**
 
-Lev Manovich, en su obra *El software toma el mando*, identifica cinco principios fundamentales que caracterizan a los nuevos medios digitales: **numeración**, **modularidad**, **automatización**, **variabilidad** y **transcodificación**. Estos principios no solo explican las transformaciones tecnológicas de los medios, sino también los cambios culturales que estos generan.
+Lev Manovich, en su libro *El lenguaje de los nuevos medios de comunicación* (*The Language of New Media*, 2001), establece cinco principios fundamentales que caracterizan a los nuevos medios digitales: **numeración**, **modularidad**, **automatización**, **variabilidad** y **transcodificación**. Estas dimensiones explican cómo los medios digitales se diferencian de los analógicos y cómo el software redefine la producción, distribución y consumo de medios.
 
 
 
