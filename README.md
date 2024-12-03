@@ -8,7 +8,7 @@ Autor: Moisés
 
 Fecha: 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://cdn.pixabay.com/photo/2024/02/15/15/55/ai-generated-8575671_960_720.jpg) 
 
 
 
