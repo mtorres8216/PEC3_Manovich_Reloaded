@@ -46,6 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
 Imágen CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
 Imágen CC BY [Santeri Viinamäki](https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background)_(cropped).jpg))
-Imágen Free to use [Photo by MART  PRODUCTION from Pexels](https://www.pexels.com/photo/a-close-up-shot-of-a-smartphone-recording-a-woman-sitting-on-a-chair-7481981/)
+
+A close-up shot of a smartphone recording a woman sitting on a chair. (2024). [Pexels](https://www.pexels.com/photo/a-close-up-shot-of-a-smartphone-recording-a-woman-sitting-on-a-chair-7481981/). Licencia Pexels (sin necesidad de atribución).
+
 Imagen generada por IA de una mujer. (2024). [Pixabay](https://pixabay.com/es/illustrations/ai-generado-mujer-8575671/). Licencia Pixabay (sin necesidad de atribución).
 
