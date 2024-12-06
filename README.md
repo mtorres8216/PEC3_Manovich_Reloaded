@@ -18,9 +18,11 @@ Lev Manovich, en *El software toma el mando* (2013), describe cómo el software 
 
 La hibridación no se limita a sumar medios; implica una transformación que los adapta a nuevas dinámicas culturales. En plataformas como **Instagram** y **TikTok**, esta intersección genera nuevos medios que no solo combinan elementos anteriores, sino que los reconfiguran para facilitar nuevas formas de participación e interacción. A continuación, analizamos cómo se produce esta hibridación en cada caso y cómo estos entornos híbridos definen nuevos medios.
 
-## Re-descubriendo la hibridacion: Caso 1
+## Caso 1: Instagram como un medio híbrido visual-social
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### ¿Cómo se produce la hibridación?
+
+Instagram combina elementos de fotografía tradicional, diseño gráfico digital y redes sociales en una experiencia integrada que redefine las prácticas visuales y sociales. Esto genera un nuevo medio al transformar la relación entre creación, consumo e interacción.
 
 
 
