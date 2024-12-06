@@ -16,6 +16,7 @@ Fecha:
 
 Lev Manovich, en *El software toma el mando* (2013), describe cómo el software actúa como motor para transformar y combinar los medios tradicionales en nuevos entornos digitales interactivos. Este proceso, conocido como **hibridación de nuevos medios**, ocurre cuando tecnologías, prácticas culturales y formatos preexistentes se intersectan y dan lugar a un nuevo medio, con características únicas que no existían antes.
 
+La hibridación no se limita a sumar medios; implica una transformación que los adapta a nuevas dinámicas culturales. En plataformas como **Instagram** y **TikTok**, esta intersección genera nuevos medios que no solo combinan elementos anteriores, sino que los reconfiguran para facilitar nuevas formas de participación e interacción. A continuación, analizamos cómo se produce esta hibridación en cada caso y cómo estos entornos híbridos definen nuevos medios.
 
 ## Re-descubriendo la hibridacion: Caso 1
 
