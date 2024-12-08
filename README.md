@@ -30,7 +30,7 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 
 1. **Fusión de fotografía y software de edición**:
    
-    - **Punto clave**: La fotografía tradicional se reconfigura al integrarse con herramientas de software accesibles. Filtros, ediciones automáticas y efectos visuales permiten a los usuarios modificar sus imágenes sin experiencia técnica avanzada.
+   - **Punto clave**: La fotografía tradicional se reconfigura al integrarse con herramientas de software accesibles. Filtros, ediciones automáticas y efectos visuales permiten a los usuarios modificar sus imágenes sin experiencia técnica avanzada.
    - **Hibridación**: La práctica fotográfica deja de ser un medio estático y se convierte en un flujo continuo de creación y personalización.
      
 2. **Intersección de redes sociales y estética visual**:
@@ -39,6 +39,9 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
    - **Hibridación**: La imagen no solo comunica, sino que participa en un diálogo social en tiempo real.
      
 3. **Integración del comercio digital**:
+
+   - **Punto clave**: Funciones como las etiquetas de productos y las tiendas virtuales convierten a Instagram en un escaparate interactivo, fusionando lo personal y lo comercial.
+   - **Hibridación**: El medio combina creatividad visual, interacción social y comercio, creando un espacio multifacético que no existía previamente.
 
 ### Nuevo medio generado
 
