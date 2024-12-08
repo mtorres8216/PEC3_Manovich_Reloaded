@@ -28,16 +28,21 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 
 ### Análisis según las gafas de Manovich
 
-#### 1. **Fusión de fotografía y software de edición**:
+#### **Fusión de fotografía y software de edición**:
    
   Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada     de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a    cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las            posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales      con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
      
-#### 2. **Intersección de redes sociales y estética visual**:
+#### **Intersección de redes sociales y estética visual**:
 
    Instagram no es solo una plataforma para compartir imágenes, sino un entorno donde lo visual y lo social se combinan de manera única. La plataforma convierte la fotografía en un acto interactivo, donde    las imágenes no solo representan un momento visual, sino que también invitan a la participación social. Los "likes", comentarios y "shares" permiten que las imágenes se conviertan en vehículos de interacción, y las historias temporales añaden una capa de dinamismo al medio visual. En este sentido, la estética visual en Instagram no se limita a lo que se muestra en la pantalla, sino que se amplifica mediante la interacción constante de los usuarios, creando un espacio donde las imágenes se convierten en vehículos de comunicación social. La combinación de redes sociales con estética visual redefine el consumo de contenido, haciendo de la imagen una herramienta de conexión social más que una simple representación visual.
    
      
-#### 3. **Integración del comercio digital**:
+#### **Integración del comercio digital**:
+
+![Instagram shopping](https://img.freepik.com/vector-gratis/plantillas-carrusel-instagram-compras_23-2148773139.jpg?t=st=1733693550~exp=1733697150~hmac=ef7a82521a8178700589874dd24ae3ea29c59346d39a9106134cc5eed02e3d1b&w=996) 
+
+Más allá de ser una red social o una plataforma de edición de imágenes, Instagram ha integrado funciones de comercio digital que permiten a los usuarios comprar productos directamente a través de las publicaciones. Las etiquetas de productos y las tiendas virtuales en los perfiles transforman a Instagram en un escaparate interactivo. Este fenómeno es una clara manifestación de la transcodificación cultural, según Manovich, donde la tecnología y las prácticas culturales se entrelazan para crear nuevas formas de interacción y consumo. Los usuarios ya no solo consumen contenido, sino que también participan activamente en la economía digital mediante la compra de productos promocionados en sus feeds. Las marcas, las empresas y los creadores de contenido son ahora actores clave en este ecosistema híbrido, utilizando la plataforma para conectar con audiencias globales, promocionar productos y generar ingresos. Esta integración del comercio digital redefine el propósito de las imágenes y de las redes sociales, convirtiéndolas en herramientas de interacción económica.
+
 
   
 ### Nuevo medio generado
