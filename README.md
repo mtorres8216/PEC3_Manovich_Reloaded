@@ -24,25 +24,21 @@ En este ensayo, exploramos cómo Instagram y TikTok representan ejemplos claros 
 
 ### Introducción al caso
 
-Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido donde se combinan elementos de la fotografía, el diseño gráfico, las redes sociales y el comercio electrónico. Este proceso de hibridación genera un medio único que transforma las prácticas visuales y sociales.
+Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido que integra fotografía, diseño gráfico, redes sociales y comercio electrónico. Este proceso de hibridación ha dado lugar a una nueva forma de interacción visual y social. Según Manovich, Instagram ejemplifica cómo el software puede transformar prácticas culturales preexistentes, creando una experiencia modular e interactiva que redefine las dinámicas sociales y culturales.
 
 ### Análisis según las gafas de Manovich
 
 1. **Fusión de fotografía y software de edición**:
    
-   - **Punto clave**: La fotografía tradicional se reconfigura al integrarse con herramientas de software accesibles. Filtros, ediciones automáticas y efectos visuales permiten a los usuarios modificar sus imágenes sin experiencia técnica avanzada.
-   - **Hibridación**: La práctica fotográfica deja de ser un medio estático y se convierte en un flujo continuo de creación y personalización.
+  Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
      
 2. **Intersección de redes sociales y estética visual**:
 
-   - **Punto clave**: Instagram combina la interacción social (likes, comentarios, seguidores) con la narrativa visual, creando una dinámica híbrida donde las imágenes no solo se consumen, sino que también generan interacción.
-   - **Hibridación**: La imagen no solo comunica, sino que participa en un diálogo social en tiempo real.
+   
      
 3. **Integración del comercio digital**:
 
-   - **Punto clave**: Funciones como las etiquetas de productos y las tiendas virtuales convierten a Instagram en un escaparate interactivo, fusionando lo personal y lo comercial.
-   - **Hibridación**: El medio combina creatividad visual, interacción social y comercio, creando un espacio multifacético que no existía previamente.
-
+  
 ### Nuevo medio generado
 
 ## Re-descubriendo la hibridacion: Caso 2
