@@ -28,7 +28,7 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 
 ### Análisis según las gafas de Manovich
 
-1. **Fusión de fotografía y software de edición**:
+#### **Fusión de fotografía y software de edición**:
    
   Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada     de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a    cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las            posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales      con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
      
