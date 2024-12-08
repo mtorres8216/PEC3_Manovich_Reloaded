@@ -29,10 +29,16 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 ### Análisis según las gafas de Manovich
 
 1. **Fusión de fotografía y software de edición**:
+   
     - **Punto clave**: La fotografía tradicional se reconfigura al integrarse con herramientas de software accesibles. Filtros, ediciones automáticas y efectos visuales permiten a los usuarios modificar sus imágenes sin experiencia técnica avanzada.
-   - **Hibridación**: La práctica fotográfica deja de ser un medio estático y se convierte en un flujo continuo de creación y personalización. 
-3. **Intersección de redes sociales y estética visual**:
-4. **Integración del comercio digital**:
+   - **Hibridación**: La práctica fotográfica deja de ser un medio estático y se convierte en un flujo continuo de creación y personalización.
+     
+2. **Intersección de redes sociales y estética visual**:
+
+   - **Punto clave**: Instagram combina la interacción social (likes, comentarios, seguidores) con la narrativa visual, creando una dinámica híbrida donde las imágenes no solo se consumen, sino que también generan interacción.
+   - **Hibridación**: La imagen no solo comunica, sino que participa en un diálogo social en tiempo real.
+     
+3. **Integración del comercio digital**:
 
 ### Nuevo medio generado
 
