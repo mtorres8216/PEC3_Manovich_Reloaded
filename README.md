@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: La hibridación de nuevos medios según la perspectiva de Manovich, ejemplificada en Instagram y TikTok. 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
