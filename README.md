@@ -37,7 +37,7 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 
 
 
-<div align="center">![Gen_Zer_Islam_Instagram_Reels](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gen_Zer_Islam_Instagram_Reels.jpg/365px-Gen_Zer_Islam_Instagram_Reels.jpg)</div> 
+<center>![Gen_Zer_Islam_Instagram_Reels](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gen_Zer_Islam_Instagram_Reels.jpg/365px-Gen_Zer_Islam_Instagram_Reels.jpg)</center> 
 
    Instagram no es solo una plataforma para compartir imágenes, sino un entorno donde lo visual y lo social se combinan de manera única. La plataforma convierte la fotografía en un acto interactivo, donde    las imágenes no solo representan un momento visual, sino que también invitan a la participación social. Los "likes", comentarios y "shares" permiten que las imágenes se conviertan en vehículos de interacción, y las historias temporales añaden una capa de dinamismo al medio visual. En este sentido, la estética visual en Instagram no se limita a lo que se muestra en la pantalla, sino que se amplifica mediante la interacción constante de los usuarios, creando un espacio donde las imágenes se convierten en vehículos de comunicación social. La combinación de redes sociales con estética visual redefine el consumo de contenido, haciendo de la imagen una herramienta de conexión social más que una simple representación visual.
    
