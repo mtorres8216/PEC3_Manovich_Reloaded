@@ -27,20 +27,20 @@ En este ensayo, exploramos cómo Instagram y TikTok representan ejemplos claros 
 
 Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido que integra fotografía, diseño gráfico, redes sociales y comercio electrónico. Este proceso de hibridación ha dado lugar a una nueva forma de interacción visual y social. Según Manovich, Instagram ejemplifica cómo el software puede transformar prácticas culturales preexistentes, creando una experiencia modular e interactiva que redefine las dinámicas sociales y culturales.
 
-### Análisis según las gafas de Manovich
+### **Hibridación según Manovich**
 
-#### **Fusión de fotografía y software de edición**:
+#### **1. Fusión de fotografía y software de edición**:
    
   Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada     de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a    cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las            posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales      con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
      
-#### **Intersección de redes sociales y estética visual**:
+#### **2. Intersección de redes sociales y estética visual**:
 
 
 
    Instagram no es solo una plataforma para compartir imágenes, sino un entorno donde lo visual y lo social se combinan de manera única. La plataforma convierte la fotografía en un acto interactivo, donde    las imágenes no solo representan un momento visual, sino que también invitan a la participación social. Los "likes", comentarios y "shares" permiten que las imágenes se conviertan en vehículos de interacción, y las historias temporales añaden una capa de dinamismo al medio visual. En este sentido, la estética visual en Instagram no se limita a lo que se muestra en la pantalla, sino que se amplifica mediante la interacción constante de los usuarios, creando un espacio donde las imágenes se convierten en vehículos de comunicación social. La combinación de redes sociales con estética visual redefine el consumo de contenido, haciendo de la imagen una herramienta de conexión social más que una simple representación visual.
    
      
-#### **Integración del comercio digital**:
+#### **3. Integración del comercio digital**:
 
 
 
@@ -49,6 +49,8 @@ Más allá de ser una red social o una plataforma de edición de imágenes, Inst
 
   
 ### Nuevo medio generado
+
+TikTok es más que una red social o una plataforma de videos. Es un medio híbrido que combina música, video y participación social en un formato dinámico, viral y colaborativo. Este medio rompe las barreras tradicionales entre creación y consumo, permitiendo a los usuarios ser creadores activos en una narrativa global. Desde las gafas de Manovich, TikTok es un ejemplo claro de cómo el software reconfigura los medios tradicionales, generando un entorno único donde convergen lo técnico, lo cultural y lo participativo en la era digital.
 
 ## Re-descubriendo la hibridacion: Caso 2
 
