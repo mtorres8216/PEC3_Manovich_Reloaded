@@ -68,6 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 TikTok no es simplemente una red social ni una herramienta de video; es un medio híbrido que combina música, video e interacción social en un formato dinámico y viral. Este medio redefine cómo las personas consumen, crean y participan en la cultura digital, rompiendo las barreras entre producción y consumo. Desde las gafas de Manovich, TikTok es un ejemplo claro de cómo el software permite la convergencia de prácticas culturales y tecnológicas en un entorno único e interactivo, donde lo colectivo y lo individual se mezclan para generar un impacto global.
 
+## **Conclusión**
 
 ### Referencias y Bibliografía
 
