@@ -1,6 +1,6 @@
 # PEC3: La hibridación de nuevos medios según la perspectiva de Manovich, ejemplificada en Instagram y TikTok. 
 
-### Recurso de aprendizaje de Cultura Digital 
+### Asignatura de Cultura digital - UOC
 
 
 Autor: 
