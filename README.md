@@ -50,7 +50,8 @@ Más allá de ser una red social o una plataforma de edición de imágenes, Inst
   
 ### Nuevo medio generado
 
-TikTok es más que una red social o una plataforma de videos. Es un medio híbrido que combina música, video y participación social en un formato dinámico, viral y colaborativo. Este medio rompe las barreras tradicionales entre creación y consumo, permitiendo a los usuarios ser creadores activos en una narrativa global. Desde las gafas de Manovich, TikTok es un ejemplo claro de cómo el software reconfigura los medios tradicionales, generando un entorno único donde convergen lo técnico, lo cultural y lo participativo en la era digital.
+Instagram no es simplemente una plataforma de fotografía ni una red social. Es un medio híbrido visual-social-comercial que transforma cómo las personas crean, interactúan y consumen contenido. Las imágenes ya no son meramente representativas; se convierten en vehículos de interacción social y comercial. Bajo las gafas de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
+
 
 ## Re-descubriendo la hibridacion: Caso 2
 
