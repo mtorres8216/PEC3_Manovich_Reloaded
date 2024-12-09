@@ -53,9 +53,20 @@ Más allá de ser una red social o una plataforma de edición de imágenes, Inst
 Instagram no es simplemente una plataforma de fotografía ni una red social. Es un medio híbrido visual-social-comercial que transforma cómo las personas crean, interactúan y consumen contenido. Las imágenes ya no son meramente representativas; se convierten en vehículos de interacción social y comercial. Bajo las gafas de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
 
 
-## Re-descubriendo la hibridacion: Caso 2
-
+## **Caso 2: TikTok como un medio híbrido audiovisual**
+### Introducción al caso
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### **Hibridación según Manovich**
+
+#### **1. Fusión de música y video en tiempo real**
+#### **2. Creatividad colectiva y viralidad**
+#### **3. Transformación cultural en la interfaz**
+
+
+### Nuevo medio generado
+
+TikTok no es simplemente una red social ni una herramienta de video; es un medio híbrido que combina música, video e interacción social en un formato dinámico y viral. Este medio redefine cómo las personas consumen, crean y participan en la cultura digital, rompiendo las barreras entre producción y consumo. Desde las gafas de Manovich, TikTok es un ejemplo claro de cómo el software permite la convergencia de prácticas culturales y tecnológicas en un entorno único e interactivo, donde lo colectivo y lo individual se mezclan para generar un impacto global.
 
 
 ### Referencias y Bibliografía
