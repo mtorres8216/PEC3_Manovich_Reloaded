@@ -55,12 +55,14 @@ Instagram no es simplemente una plataforma de fotografía ni una red social. Es 
 
 ## **Caso 2: TikTok como un medio híbrido audiovisual**
 ### Introducción al caso
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+TikTok es una plataforma innovadora que combina música, video, efectos visuales y participación comunitaria en un entorno dinámico e interactivo. Su diseño intuitivo y sus herramientas accesibles permiten que cualquier usuario sea creador y consumidor al mismo tiempo, rompiendo las barreras entre producción y consumo. Desde la perspectiva de Manovich, TikTok ejemplifica cómo el software reconfigura medios tradicionales en nuevos formatos híbridos que transforman la cultura audiovisual.
 
 ### **Hibridación según Manovich**
 
 #### **1. Fusión de música y video en tiempo real**
+
 #### **2. Creatividad colectiva y viralidad**
+
 #### **3. Transformación cultural en la interfaz**
 
 
