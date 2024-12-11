@@ -61,6 +61,12 @@ TikTok es una plataforma innovadora que combina música, video, efectos visuales
 
 #### **1. Fusión de música y video en tiempo real**
 
+TikTok redefine las prácticas audiovisuales al hibridar elementos tradicionales y tecnológicos en un formato accesible y dinámico. La plataforma combina música, video y herramientas de edición intuitiva que permiten sincronizar automáticamente el audio con las imágenes, eliminando la necesidad de habilidades técnicas avanzadas. Esta integración de disciplinas transforma la creación audiovisual en un proceso accesible tanto para aficionados como para profesionales.
+
+La hibridación se extiende a la personalización del contenido, donde los usuarios seleccionan canciones de una extensa biblioteca de sonidos, aplican filtros visuales, transiciones y efectos especiales que enriquecen cada producción. Así, cada video resulta de la fusión de técnicas tradicionales con tecnologías digitales avanzadas, creando narrativas únicas y personalizadas.
+
+Según Manovich, la modularidad y la variabilidad son esenciales para los nuevos medios. TikTok ejemplifica esta idea al permitir que los creadores adapten sus producciones según sus preferencias y objetivos, mostrando cómo la tecnología transforma los medios en plataformas híbridas y adaptativas.
+
 #### **2. Creatividad colectiva y viralidad**
 
 #### **3. Transformación cultural en la interfaz**
@@ -68,7 +74,7 @@ TikTok es una plataforma innovadora que combina música, video, efectos visuales
 
 ### Nuevo medio generado
 
-TikTok no es simplemente una red social ni una herramienta de video; es un medio híbrido que combina música, video e interacción social en un formato dinámico y viral. Este medio redefine cómo las personas consumen, crean y participan en la cultura digital, rompiendo las barreras entre producción y consumo. Desde las gafas de Manovich, TikTok es un ejemplo claro de cómo el software permite la convergencia de prácticas culturales y tecnológicas en un entorno único e interactivo, donde lo colectivo y lo individual se mezclan para generar un impacto global.
+TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
 
 ## **Conclusión**
 
