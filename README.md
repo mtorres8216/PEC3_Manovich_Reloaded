@@ -8,11 +8,15 @@ Autor:
 
 Fecha: 
 
+## Indice
+
+- [Planteamiento: ¿Qué es la hibridación según Manovich?](#introducción)
+
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 
-## **Planteamiento: ¿Qué es la hibridación según Manovich?**
+## **Planteamiento: ¿Qué es la hibridación según Manovich?** {#introducción}
 
 Lev Manovich, en *El software toma el mando* (2013), describe cómo el software actúa como motor para transformar y combinar los medios tradicionales en nuevos entornos digitales interactivos. Este proceso, conocido como **hibridación de nuevos medios**, ocurre cuando tecnologías, prácticas culturales y formatos preexistentes se intersectan y dan lugar a un nuevo medio, con características únicas que no existían antes.
 
