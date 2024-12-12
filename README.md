@@ -19,15 +19,15 @@ Fecha:
     - [2. Intersección de redes sociales y estética visual](#item6)
     - [3. Integración del comercio digital](#item7)
   - [Nuevo medio generado](#item8)
-- [Caso 2: TikTok como un medio híbrido audiovisual](#item2)
-  - [Introducción al caso](#item3)
-  - [Hibridación según Manovich](#item4)
-    - [1. Fusión de música y video en tiempo real](#item5)
-    - [2. Creatividad colectiva y viralidad](#item6)
-    - [3. Transformación cultural en la interfaz](#item7)
-  - [Nuevo medio generado](#item8)
-- [Conclusión](#item8)
-- [Conclusión](#item8)
+- [Caso 2: TikTok como un medio híbrido audiovisual](#item1a)
+  - [Introducción al caso](#item2a)
+  - [Hibridación según Manovich](#item3a)
+    - [1. Fusión de música y video en tiempo real](#item4a)
+    - [2. Creatividad colectiva y viralidad](#item5a)
+    - [3. Transformación cultural en la interfaz](#item6a)
+  - [Nuevo medio generado](#item7a)
+- [Conclusión](#item9)
+- [Referencias y Bibliografía](#item10)
  
     
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
@@ -77,13 +77,15 @@ Más allá de ser una red social o una plataforma de edición de imágenes, Inst
 
 Instagram no es simplemente una plataforma de fotografía ni una red social. Es un medio híbrido visual-social-comercial que transforma cómo las personas crean, interactúan y consumen contenido. Las imágenes ya no son meramente representativas; se convierten en vehículos de interacción social y comercial. Bajo las gafas de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
 
-
+<a name="item1a"></a>
 ## **Caso 2: TikTok como un medio híbrido audiovisual**
+<a name="item2a"></a>
 ### Introducción al caso
 TikTok es una plataforma innovadora que combina música, video, efectos visuales y participación comunitaria en un entorno dinámico e interactivo. Su diseño intuitivo y sus herramientas accesibles permiten que cualquier usuario sea creador y consumidor al mismo tiempo, rompiendo las barreras entre producción y consumo. Desde la perspectiva de Manovich, TikTok ejemplifica cómo el software reconfigura medios tradicionales en nuevos formatos híbridos que transforman la cultura audiovisual.
-
+ [Subir](#top)  
+<a name="item3a"></a>
 ### **Hibridación según Manovich**
-
+<a name="item4a"></a>
 #### **1. Fusión de música y video en tiempo real**
 
 TikTok redefine las prácticas audiovisuales al hibridar elementos tradicionales y tecnológicos en un formato accesible y dinámico. La plataforma combina música, video y herramientas de edición intuitiva que permiten sincronizar automáticamente el audio con las imágenes, eliminando la necesidad de habilidades técnicas avanzadas. Esta integración de disciplinas transforma la creación audiovisual en un proceso accesible tanto para aficionados como para profesionales.
@@ -91,23 +93,26 @@ TikTok redefine las prácticas audiovisuales al hibridar elementos tradicionales
 La hibridación se extiende a la personalización del contenido, donde los usuarios seleccionan canciones de una extensa biblioteca de sonidos, aplican filtros visuales, transiciones y efectos especiales que enriquecen cada producción. Así, cada video resulta de la fusión de técnicas tradicionales con tecnologías digitales avanzadas, creando narrativas únicas y personalizadas.
 
 Según Manovich, la modularidad y la variabilidad son esenciales para los nuevos medios. TikTok ejemplifica esta idea al permitir que los creadores adapten sus producciones según sus preferencias y objetivos, mostrando cómo la tecnología transforma los medios en plataformas híbridas y adaptativas.
-
+ [Subir](#top)  
+<a name="item5a"></a>
 #### **2. Creatividad colectiva y viralidad**
-
+ [Subir](#top)  
+<a name="item6a"></a>
 #### **3. Transformación cultural en la interfaz**
-
-
+ [Subir](#top)  
+<a name="item7a"></a>
 ### Nuevo medio generado
 
 TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
-
+ [Subir](#top)  
+<a name="item9"></a>
 ## **Conclusión**
-
+ [Subir](#top)  
+<a name="item10"></a>
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
+[Subir](#top)  
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
