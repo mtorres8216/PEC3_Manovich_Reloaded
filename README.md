@@ -11,7 +11,9 @@ Fecha:
 ## Indice
 
 - [Planteamiento: ¿Qué es la hibridación según Manovich?](#item1)
-- [**Caso 1: Instagram como un medio híbrido visual-social**](#item2)
+- [Caso 1: Instagram como un medio híbrido visual-social](#item2)
+-- [Introducción al caso](#item3)
+-- [Hibridación según Manovich](#item4)
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
@@ -27,24 +29,24 @@ Manovich subraya que la hibridación no se limita a sumar medios, sino que impli
 En este ensayo, exploramos cómo Instagram y TikTok representan ejemplos claros de esta hibridación de nuevos medios. Estas plataformas no solo combinan elementos visuales, sonoros y sociales, sino que los reconfiguran profundamente, facilitando nuevas formas de interacción y participación cultural. En ambos casos, la intersección de estos elementos genera entornos híbridos que transforman los medios tradicionales en experiencias digitales únicas. A continuación, analizamos los puntos clave donde se produce esta hibridación y cómo cada plataforma redefine las dinámicas culturales y tecnológicas.
 <a name="item2"></a>
 ## **Caso 1: Instagram como un medio híbrido visual-social**
-
+<a name="item3"></a>
 ### Introducción al caso
 
 Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido que integra fotografía, diseño gráfico, redes sociales y comercio electrónico. Este proceso de hibridación ha dado lugar a una nueva forma de interacción visual y social. Según Manovich, Instagram ejemplifica cómo el software puede transformar prácticas culturales preexistentes, creando una experiencia modular e interactiva que redefine las dinámicas sociales y culturales.
-
+<a name="item4"></a>
 ### **Hibridación según Manovich**
-
+<a name="item5"></a>
 #### **1. Fusión de fotografía y software de edición**:
    
   Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada     de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a    cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las            posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales      con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
-     
+<a name="item6"></a>     
 #### **2. Intersección de redes sociales y estética visual**:
 
 
 
    Instagram no es solo una plataforma para compartir imágenes, sino un entorno donde lo visual y lo social se combinan de manera única. La plataforma convierte la fotografía en un acto interactivo, donde    las imágenes no solo representan un momento visual, sino que también invitan a la participación social. Los "likes", comentarios y "shares" permiten que las imágenes se conviertan en vehículos de interacción, y las historias temporales añaden una capa de dinamismo al medio visual. En este sentido, la estética visual en Instagram no se limita a lo que se muestra en la pantalla, sino que se amplifica mediante la interacción constante de los usuarios, creando un espacio donde las imágenes se convierten en vehículos de comunicación social. La combinación de redes sociales con estética visual redefine el consumo de contenido, haciendo de la imagen una herramienta de conexión social más que una simple representación visual.
    
-     
+ <a name="item7"></a>    
 #### **3. Integración del comercio digital**:
 
 
@@ -52,7 +54,7 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 Más allá de ser una red social o una plataforma de edición de imágenes, Instagram ha integrado funciones de comercio digital que permiten a los usuarios comprar productos directamente a través de las publicaciones. Las etiquetas de productos y las tiendas virtuales en los perfiles transforman a Instagram en un escaparate interactivo. Este fenómeno es una clara manifestación de la transcodificación cultural, según Manovich, donde la tecnología y las prácticas culturales se entrelazan para crear nuevas formas de interacción y consumo. Los usuarios ya no solo consumen contenido, sino que también participan activamente en la economía digital mediante la compra de productos promocionados en sus feeds. Las marcas, las empresas y los creadores de contenido son ahora actores clave en este ecosistema híbrido, utilizando la plataforma para conectar con audiencias globales, promocionar productos y generar ingresos. Esta integración del comercio digital redefine el propósito de las imágenes y de las redes sociales, convirtiéndolas en herramientas de interacción económica.
 
 
-  
+<a name="item8"></a>  
 ### Nuevo medio generado
 
 Instagram no es simplemente una plataforma de fotografía ni una red social. Es un medio híbrido visual-social-comercial que transforma cómo las personas crean, interactúan y consumen contenido. Las imágenes ya no son meramente representativas; se convierten en vehículos de interacción social y comercial. Bajo las gafas de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
