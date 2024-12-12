@@ -12,8 +12,8 @@ Fecha:
 
 - [Planteamiento: ¿Qué es la hibridación según Manovich?](#item1)
 - [Caso 1: Instagram como un medio híbrido visual-social](#item2)
-- - [Introducción al caso](#item3)
-- - [Hibridación según Manovich](#item4)
+  - [Introducción al caso](#item3)
+  - [Hibridación según Manovich](#item4)
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
