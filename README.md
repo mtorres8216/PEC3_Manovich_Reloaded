@@ -6,7 +6,8 @@
 Autor: 
 
 
-Fecha: 
+Fecha:
+
 <a name="top"></a>
 ## Indice
 
@@ -18,7 +19,17 @@ Fecha:
     - [2. Intersección de redes sociales y estética visual](#item6)
     - [3. Integración del comercio digital](#item7)
   - [Nuevo medio generado](#item8)
-
+- [Caso 2: TikTok como un medio híbrido audiovisual](#item2)
+  - [Introducción al caso](#item3)
+  - [Hibridación según Manovich](#item4)
+    - [1. Fusión de música y video en tiempo real](#item5)
+    - [2. Creatividad colectiva y viralidad](#item6)
+    - [3. Transformación cultural en la interfaz](#item7)
+  - [Nuevo medio generado](#item8)
+- [Conclusión](#item8)
+- [Conclusión](#item8)
+ 
+    
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
