@@ -93,12 +93,23 @@ TikTok redefine las prácticas audiovisuales al hibridar elementos tradicionales
 La hibridación se extiende a la personalización del contenido, donde los usuarios seleccionan canciones de una extensa biblioteca de sonidos, aplican filtros visuales, transiciones y efectos especiales que enriquecen cada producción. Así, cada video resulta de la fusión de técnicas tradicionales con tecnologías digitales avanzadas, creando narrativas únicas y personalizadas.
 
 Según Manovich, la modularidad y la variabilidad son esenciales para los nuevos medios. TikTok ejemplifica esta idea al permitir que los creadores adapten sus producciones según sus preferencias y objetivos, mostrando cómo la tecnología transforma los medios en plataformas híbridas y adaptativas.
+
  [Subir](#top)  
 <a name="item5a"></a>
-#### **2. Creatividad colectiva y viralidad**
+#### **2. Generación de contenido participativo y dinámico**
+
+La **hibridación de medios** en TikTok no se limita solo a la integración de música y video. TikTok transforma el contenido en algo **dinámico** y **colectivo**. Funciones como los **duetos** y **remixes** permiten que los usuarios no solo consuman el contenido, sino que también lo **modifiquen y reconfiguren**. Esto crea un **nuevo espacio interactivo** donde los videos se convierten en **proyectos colaborativos** que evolucionan continuamente. Por ejemplo, un video puede iniciar una tendencia o un reto viral, y otros usuarios pueden contribuir con su propia versión del contenido, adaptándolo a su estilo o contexto.
+
+Este fenómeno no es solo un **proceso de remixing**; es una forma de **crear algo nuevo y único** a partir de medios preexistentes, lo cual refleja cómo **los medios se combinan y se transforman** para generar una experiencia más rica. Manovich afirma que la hibridación permite **nuevas formas de representación** en los nuevos medios, y este proceso de **colaboración y reinterpretación** es clave en la transformación de TikTok como un **nuevo medio híbrido**.
+
  [Subir](#top)  
 <a name="item6a"></a>
-#### **3. Transformación cultural en la interfaz**
+#### **3. Expansión de los formatos preexistentes**
+
+TikTok no solo toma los **videoclips** tradicionales y los adapta al formato digital, sino que los **expande**. Un videoclip en TikTok ya no es solo un **video musical**, sino que se convierte en un **espacio flexible** donde los usuarios pueden **incorporar su propia creatividad**, adaptando el contenido a su estilo personal. Al permitir que los usuarios **sincronicen música** y **personalicen el video** en tiempo real, TikTok transforma lo que tradicionalmente era una experiencia pasiva de ver un videoclip en una **experiencia interactiva**. 
+
+Además, TikTok transforma elementos como las **actuaciones en vivo** o los **conciertos** al permitir que los usuarios compartan **fragmentos** de eventos o incluso los **reemplacen** por representaciones personales. Este tipo de reconfiguración expande lo que originalmente sería solo un video o una grabación en vivo, transformándolos en **acciones creativas** que el usuario puede interpretar y **modificar**.
+     
  [Subir](#top)  
 <a name="item7a"></a>
 ### Nuevo medio generado
