@@ -24,7 +24,7 @@ Fecha:
   - [Hibridación según Manovich](#item3a)
     - [1. Fusión de música y video en tiempo real](#item4a)
     - [2. Creatividad colectiva y viralidad](#item5a)
-    - [3. Transformación cultural en la interfaz](#item6a)
+    - [3. Expansión de los formatos preexistentes](#item6a)
   - [Nuevo medio generado](#item7a)
 - [Conclusión](#item9)
 - [Referencias y Bibliografía](#item10)
