@@ -134,7 +134,7 @@ Ambas plataformas no solo combinan elementos preexistentes, sino que los redefin
 * Página oficial de Instagram: https://www.instagram.com
 * Página oficial de TikTok: https://www.tiktok.com
   
-[Subir](#top)  
+  [Subir](#top)  
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
