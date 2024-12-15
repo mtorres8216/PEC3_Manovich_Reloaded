@@ -26,7 +26,7 @@ Fecha:
     - [2. Creatividad colectiva y viralidad](#item5a)
     - [3. Expansión de los formatos preexistentes](#item6a)
   - [Nuevo medio generado](#item7a)
-- [Conclusión](#item9)
+- [Conclusión final](#item9)
 - [Referencias y Bibliografía](#item10)
  
     
@@ -117,12 +117,22 @@ Además, TikTok transforma elementos como las **actuaciones en vivo** o los **co
 TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
  [Subir](#top)  
 <a name="item9"></a>
-## **Conclusión**
+## **Conclusión final**
+
+Desde la perspectiva de Lev Manovich, la hibridación de medios no se limita a sumar elementos, sino que transforma prácticas culturales y formatos tradicionales mediante el software. Tanto Instagram como TikTok ejemplifican esta transformación, fusionando la fotografía, el video, la música y las redes sociales para crear nuevos medios interactivos.
+
+Instagram ilustra cómo la modularidad y la integración del software pueden convertir la fotografía en una experiencia participativa y dinámica, mientras que TikTok muestra cómo la música y el video se reconfiguran en un formato colectivo e interactivo, expandiendo los medios tradicionales hacia nuevas formas de representación.
+
+Ambas plataformas no solo combinan elementos preexistentes, sino que los redefinen y generan nuevos medios híbridos que transforman nuestra relación con la creación y el consumo cultural, marcando un cambio significativo en la forma en que experimentamos los medios en la era digital.
+
  [Subir](#top)  
 <a name="item10"></a>
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Mosaic [en línea]. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+* Página oficial de Instagram: https://www.instagram.com
+* Página oficial de TikTok: https://www.tiktok.com
 [Subir](#top)  
 ----
 
