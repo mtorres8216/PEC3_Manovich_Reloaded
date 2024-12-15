@@ -49,29 +49,34 @@ En este ensayo, exploramos cómo Instagram y TikTok representan ejemplos claros 
 ### Introducción al caso
 
 Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido que integra fotografía, diseño gráfico, redes sociales y comercio electrónico. Este proceso de hibridación ha dado lugar a una nueva forma de interacción visual y social. Según Manovich, Instagram ejemplifica cómo el software puede transformar prácticas culturales preexistentes, creando una experiencia modular e interactiva que redefine las dinámicas sociales y culturales.
+
 [Subir](#top)
+
 <a name="item4"></a>
 ### **Hibridación según Manovich**
 <a name="item5"></a>
 #### **1. Fusión de fotografía y software de edición**:
    
   Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada     de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a    cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las            posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales      con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
+  
 [Subir](#top)
+
 <a name="item6"></a>     
 #### **2. Intersección de redes sociales y estética visual**:
 
 
-
    Instagram no es solo una plataforma para compartir imágenes, sino un entorno donde lo visual y lo social se combinan de manera única. La plataforma convierte la fotografía en un acto interactivo, donde    las imágenes no solo representan un momento visual, sino que también invitan a la participación social. Los "likes", comentarios y "shares" permiten que las imágenes se conviertan en vehículos de interacción, y las historias temporales añaden una capa de dinamismo al medio visual. En este sentido, la estética visual en Instagram no se limita a lo que se muestra en la pantalla, sino que se amplifica mediante la interacción constante de los usuarios, creando un espacio donde las imágenes se convierten en vehículos de comunicación social. La combinación de redes sociales con estética visual redefine el consumo de contenido, haciendo de la imagen una herramienta de conexión social más que una simple representación visual.
- [Subir](#top)  
+   
+ [Subir](#top) 
+ 
  <a name="item7"></a>    
 #### **3. Integración del comercio digital**:
-
 
 
 Más allá de ser una red social o una plataforma de edición de imágenes, Instagram ha integrado funciones de comercio digital que permiten a los usuarios comprar productos directamente a través de las publicaciones. Las etiquetas de productos y las tiendas virtuales en los perfiles transforman a Instagram en un escaparate interactivo. Este fenómeno es una clara manifestación de la transcodificación cultural, según Manovich, donde la tecnología y las prácticas culturales se entrelazan para crear nuevas formas de interacción y consumo. Los usuarios ya no solo consumen contenido, sino que también participan activamente en la economía digital mediante la compra de productos promocionados en sus feeds. Las marcas, las empresas y los creadores de contenido son ahora actores clave en este ecosistema híbrido, utilizando la plataforma para conectar con audiencias globales, promocionar productos y generar ingresos. Esta integración del comercio digital redefine el propósito de las imágenes y de las redes sociales, convirtiéndolas en herramientas de interacción económica.
 
 [Subir](#top)
+
 <a name="item8"></a>  
 ### Nuevo medio generado
 
@@ -81,8 +86,11 @@ Instagram no es simplemente una plataforma de fotografía ni una red social. Es 
 ## **Caso 2: TikTok como un medio híbrido audiovisual**
 <a name="item2a"></a>
 ### Introducción al caso
+
 TikTok es una plataforma innovadora que combina música, video, efectos visuales y participación comunitaria en un entorno dinámico e interactivo. Su diseño intuitivo y sus herramientas accesibles permiten que cualquier usuario sea creador y consumidor al mismo tiempo, rompiendo las barreras entre producción y consumo. Desde la perspectiva de Manovich, TikTok ejemplifica cómo el software reconfigura medios tradicionales en nuevos formatos híbridos que transforman la cultura audiovisual.
- [Subir](#top)  
+
+[Subir](#top) 
+ 
 <a name="item3a"></a>
 ### **Hibridación según Manovich**
 <a name="item4a"></a>
@@ -94,7 +102,8 @@ La hibridación se extiende a la personalización del contenido, donde los usuar
 
 Según Manovich, la modularidad y la variabilidad son esenciales para los nuevos medios. TikTok ejemplifica esta idea al permitir que los creadores adapten sus producciones según sus preferencias y objetivos, mostrando cómo la tecnología transforma los medios en plataformas híbridas y adaptativas.
 
- [Subir](#top)  
+[Subir](#top) 
+
 <a name="item5a"></a>
 #### **2. Generación de contenido participativo y dinámico**
 
@@ -102,7 +111,8 @@ La **hibridación de medios** en TikTok no se limita solo a la integración de m
 
 Este fenómeno no es solo un **proceso de remixing**; es una forma de **crear algo nuevo y único** a partir de medios preexistentes, lo cual refleja cómo **los medios se combinan y se transforman** para generar una experiencia más rica. Manovich afirma que la hibridación permite **nuevas formas de representación** en los nuevos medios, y este proceso de **colaboración y reinterpretación** es clave en la transformación de TikTok como un **nuevo medio híbrido**.
 
- [Subir](#top)  
+[Subir](#top)  
+
 <a name="item6a"></a>
 #### **3. Expansión de los formatos preexistentes**
 
@@ -110,12 +120,15 @@ TikTok no solo toma los **videoclips** tradicionales y los adapta al formato dig
 
 Además, TikTok transforma elementos como las **actuaciones en vivo** o los **conciertos** al permitir que los usuarios compartan **fragmentos** de eventos o incluso los **reemplacen** por representaciones personales. Este tipo de reconfiguración expande lo que originalmente sería solo un video o una grabación en vivo, transformándolos en **acciones creativas** que el usuario puede interpretar y **modificar**.
      
- [Subir](#top)  
+[Subir](#top) 
+
 <a name="item7a"></a>
 ### Nuevo medio generado
 
 TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
- [Subir](#top)  
+
+[Subir](#top)  
+
 <a name="item9"></a>
 ## **Conclusión final**
 
@@ -125,7 +138,8 @@ Instagram ilustra cómo la modularidad y la integración del software pueden con
 
 Ambas plataformas no solo combinan elementos preexistentes, sino que los redefinen y generan nuevos medios híbridos que transforman nuestra relación con la creación y el consumo cultural, marcando un cambio significativo en la forma en que experimentamos los medios en la era digital.
 
- [Subir](#top)  
+[Subir](#top)
+
 <a name="item10"></a>
 ## Referencias y Bibliografía
 
