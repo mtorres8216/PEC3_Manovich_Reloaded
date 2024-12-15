@@ -68,7 +68,7 @@ Además, los filtros replican técnicas de fotografía clásica (como el blanco 
 [Subir](#top)
 
 <a name="item6"></a>     
-#### **2. Modularidad e interactividad **:
+#### **2. Modularidad e interactividad**:
 
 
    
