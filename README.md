@@ -123,6 +123,7 @@ Este fenómeno no es solo un **proceso de remixing**; es una forma de **crear al
 <a name="item6a"></a>
 #### **3. Expansión hacia el comercio digital**
 
+TikTok,siguiendo los pasos de Instagram, ha integrado el comercio digital de manera única, permitiendo que los usuarios adquieran productos directamente desde los videos. Según [TikTok Business](https://getstarted.tiktok.com/eu-go-tiktok?lang=es), la plataforma conecta marcas con audiencias globales a través de contenido auténtico y dinámico. Esta integración no solo transforma la publicidad tradicional, sino que la adapta a un medio interactivo y participativo, redefiniendo la relación entre creadores, marcas y usuarios. Así, desde la perspectiva de Manovich, se define un medio híbrido en el que se integran varios medios en uno nuevo, expandiendo sus posibilidades, como es el caso de la venta online dentro de una red social.
 
 [Subir](#top) 
 
