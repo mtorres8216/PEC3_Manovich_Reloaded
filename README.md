@@ -69,7 +69,9 @@ Además, los filtros replican técnicas de fotografía clásica (como el blanco 
 
 <a name="item6"></a>     
 #### **2. Modularidad e interactividad**:
+Manovich describe la **modularidad** como una de las características esenciales de los nuevos medios, permitiendo que los elementos funcionen de forma independiente pero se integren en un sistema mayor. Instagram ejemplifica este principio a través de sus **módulos de contenido**: publicaciones, [historias](https://about.instagram.com/es-la/features/stories) y [reels](https://about.instagram.com/es-la/features/reels). Cada módulo tiene sentido por sí mismo, pero al interactuar con otros, generan una experiencia continua y fluida.  
 
+La **interactividad** también es clave en esta hibridación. Los usuarios no solo consumen contenido, sino que interactúan con él mediante **comentarios**, **likes** y **compartidos**, lo que transforma la fotografía en una experiencia participativa. Además, las funcionalidades como los reels y las historias permiten a los usuarios mezclar video, texto y elementos visuales, creando **contenidos únicos** que combinan múltiples formatos en un solo espacio. 
 
    
  [Subir](#top) 
