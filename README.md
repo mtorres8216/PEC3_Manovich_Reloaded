@@ -130,7 +130,7 @@ TikTok,siguiendo los pasos de Instagram, ha integrado el comercio digital de man
 <a name="item7a"></a>
 ### Nuevo medio generado
 
-TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
+TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video, comercio electrónico e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
 
 [Subir](#top)  
 
