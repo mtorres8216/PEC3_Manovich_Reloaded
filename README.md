@@ -39,10 +39,14 @@ Fecha:
 
 Lev Manovich, en *El software toma el mando* (2013), describe cómo el software actúa como motor para transformar y combinar los medios tradicionales en nuevos entornos digitales interactivos. Este proceso, conocido como **hibridación de nuevos medios**, ocurre cuando tecnologías, prácticas culturales y formatos preexistentes se intersectan y dan lugar a un nuevo medio, con características únicas que no existían antes.
 
+La hibridación, tal como la define Manovich, no se limita a la simple suma de elementos, sino que implica una transformación mutua y profunda que da lugar a un medio completamente nuevo. A diferencia de la multimedia, que combina formatos independientes (como texto, imágenes y audio) que coexisten sin integrarse plenamente; o de la remediación, que adapta medios tradicionales al entorno digital; la hibridación fusiona tecnologías y prácticas culturales de manera interactiva, logrando una integración total.
 
-Manovich subraya que la hibridación no se limita a sumar medios, sino que implica una transformación profunda que adapta estos elementos a las dinámicas culturales y tecnológicas de la era digital. Adell (2014) complementa esta perspectiva al señalar que la hibridación no solo une medios existentes, sino que los remedia y redefine, creando espacios que potencian la creatividad y la participación colectiva, al tiempo que transforman las formas tradicionales de interacción cultural.
+Manovich destaca que este proceso de hibridación redefine los medios al fusionar sus características individuales, permitiendo que interactúen para expandir sus posibilidades y transformar la manera en que los usuarios los experimentan.
+
+Por su parte, Adell (2014) complementa esta visión al afirmar que la hibridación no solo combina medios existentes, sino que también los remedia y redefine, creando espacios que potencian tanto la creatividad como la participación colectiva. Además, transforma las formas tradicionales de interacción cultural, generando nuevos entornos donde las tecnologías y las prácticas culturales evolucionan juntas.
 
 En este ensayo, exploramos cómo Instagram y TikTok representan ejemplos claros de esta hibridación de nuevos medios. Estas plataformas no solo combinan elementos visuales, sonoros y sociales, sino que los reconfiguran profundamente, facilitando nuevas formas de interacción y participación cultural. En ambos casos, la intersección de estos elementos genera entornos híbridos que transforman los medios tradicionales en experiencias digitales únicas. A continuación, analizamos los puntos clave donde se produce esta hibridación y cómo cada plataforma redefine las dinámicas culturales y tecnológicas.
+
 [Subir](#top)
 <a name="item2"></a>
 ## **Caso 1: Instagram como un medio híbrido visual-social**
