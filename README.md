@@ -127,7 +127,7 @@ Ambas plataformas no solo combinan elementos preexistentes, sino que los redefin
 
  [Subir](#top)  
 <a name="item10"></a>
-### Referencias y Bibliografía
+## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Mosaic [en línea]. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
