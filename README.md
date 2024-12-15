@@ -48,7 +48,8 @@ En este ensayo, exploramos cómo Instagram y TikTok representan ejemplos claros 
 <a name="item3"></a>
 ### Introducción al caso
 
-Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido que integra fotografía, diseño gráfico, redes sociales y comercio electrónico. Este proceso de hibridación ha dado lugar a una nueva forma de interacción visual y social. Según Manovich, Instagram ejemplifica cómo el software puede transformar prácticas culturales preexistentes, creando una experiencia modular e interactiva que redefine las dinámicas sociales y culturales.
+Instagram comenzó como una plataforma para compartir fotografías, pero ha evolucionado hacia un medio híbrido que integra fotografía, diseño gráfico, redes sociales y comercio electrónico. Este proceso de hibridación convierte a Instagram en un ejemplo paradigmático de **hibridación de medios**. A través de su capacidad para transformar la fotografía tradicional y fusionarla con herramientas digitales, la plataforma ha cambiado la forma en que las personas crean, consumen y comparten contenido. Según Manovich, Instagram ejemplifica cómo el software puede transformar prácticas culturales preexistentes, creando una experiencia modular e interactiva que redefine las dinámicas sociales y culturales. Este análisis utiliza el marco conceptual de **Lev Manovich** para explorar cómo se manifiesta la hibridación en Instagram.
+
 
 [Subir](#top)
 
@@ -57,7 +58,12 @@ Instagram comenzó como una plataforma para compartir fotografías, pero ha evol
 <a name="item5"></a>
 #### **1. Fusión de fotografía y software de edición**:
    
-  Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario pueda transformar imágenes de forma sencilla y accesible. Antes de la llegada     de esta plataforma, la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram, los filtros y ajustes automáticos permiten a    cualquier persona personalizar sus fotos de manera profesional. Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las            posibilidades del software, ampliando el acceso a la creatividad. La capacidad de aplicar filtros que simulan efectos clásicos, como el blanco y negro o los tonos sepia, conecta las tradiciones visuales      con las innovaciones digitales, creando un espacio donde lo antiguo y lo moderno coexisten de manera fluida.
+Instagram ha revolucionado la fotografía al fusionarla con herramientas de edición digital, permitiendo que cualquier usuario transforme imágenes de forma sencilla y accesible. Antes de la llegada  de esta plataforma,la edición fotográfica era un proceso complejo que requería software avanzado como Adobe Photoshop y conocimientos técnicos. Con Instagram,los filtros y ajustes automáticos permiten a cualquier persona personalizar sus fotos de manera profesional. 
+  
+Esta fusión de la fotografía tradicional con software de edición es un claro ejemplo de hibridación, donde lo visual se adapta a las posibilidades del software, ampliando el acceso a la creatividad. Esta integración facilita a todo el mundo la creación visual, haciendo que cualquier persona pueda producir contenido de calidad. 
+  
+Además, los filtros replican técnicas de fotografía clásica (como el blanco y negro o el efecto vintage), lo que crea un puente entre lo tradicional y lo digital. De esta manera, Instagram no solo facilita la creación visual, sino que también transforma la **práctica cultural de la fotografía**, convirtiéndola en un proceso interactivo y accesible para todos.  
+
   
 [Subir](#top)
 
