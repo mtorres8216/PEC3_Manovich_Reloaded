@@ -79,15 +79,16 @@ La **interactividad** también es clave en esta hibridación. Los usuarios no so
  <a name="item7"></a>    
 #### **3. Integración del comercio digital**:
 
+Instagram ha ido más allá de ser una red social al integrar funciones de **comercio digital** en su plataforma. Según [Instagram Business](https://business.instagram.com/shopping?locale=es_ES), las funciones de compras permiten a las marcas etiquetar productos directamente en publicaciones y videos, facilitando que los usuarios naveguen y compren artículos sin salir de la plataforma. Además, las tiendas virtuales dentro de los perfiles de las marcas ofrecen una experiencia completa de e-commerce en un entorno visual e interactivo.
 
-Más allá de ser una red social o una plataforma de edición de imágenes, Instagram ha integrado funciones de comercio digital que permiten a los usuarios comprar productos directamente a través de las publicaciones. Las etiquetas de productos y las tiendas virtuales en los perfiles transforman a Instagram en un escaparate interactivo. Este fenómeno es una clara manifestación de la transcodificación cultural, según Manovich, donde la tecnología y las prácticas culturales se entrelazan para crear nuevas formas de interacción y consumo. Los usuarios ya no solo consumen contenido, sino que también participan activamente en la economía digital mediante la compra de productos promocionados en sus feeds. Las marcas, las empresas y los creadores de contenido son ahora actores clave en este ecosistema híbrido, utilizando la plataforma para conectar con audiencias globales, promocionar productos y generar ingresos. Esta integración del comercio digital redefine el propósito de las imágenes y de las redes sociales, convirtiéndolas en herramientas de interacción económica.
+Este nuevo entorno redefine la interacción entre marcas y consumidores, integrando el proceso de compra dentro del flujo cotidiano de uso de la red social. Desde la perspectiva de **Manovich**, esta capacidad de Instagram para fusionar elementos visuales y funciones comerciales es un claro ejemplo de **hibridación de medios**. Un caso específico es el uso de publicaciones y reels como escaparates virtuales, donde las imágenes, el texto y los enlaces directos se combinan para crear una experiencia comercial única, expandiendo las posibilidades de la fotografía y el video en un medio completamente híbrido.  
 
 [Subir](#top)
 
 <a name="item8"></a>  
 ### Nuevo medio generado
 
-Instagram no es simplemente una plataforma de fotografía ni una red social. Es un medio híbrido visual-social-comercial que transforma cómo las personas crean, interactúan y consumen contenido. Las imágenes ya no son meramente representativas; se convierten en vehículos de interacción social y comercial. Bajo las gafas de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
+Instagram no es solo una plataforma para compartir imágenes, sino un **medio híbrido** que fusiona **fotografía**, **video**, **redes sociales** y **comercio digital**. Esta integración de elementos ha transformado la práctica visual tradicional, permitiendo a los usuarios no solo crear contenido, sino también interactuar con él y usarlo como herramienta de comercio. Instagram se posiciona como un espacio único donde convergen la creatividad, la interacción social y el comercio, redefiniendo lo que significa compartir imágenes en la era digital. Desde el punto de vista de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
 
 <a name="item1a"></a>
 ## **Caso 2: TikTok como un medio híbrido audiovisual**
@@ -152,9 +153,9 @@ Ambas plataformas no solo combinan elementos preexistentes, sino que los redefin
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Mosaic. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
-* Información de Instagram: [https://about.instagram.com/es-la/blog](https://about.instagram.com/es-la/blog)
+* Instagram: [https://about.instagram.com/es-la/blog](https://about.instagram.com/es-la/blog)
 * Instagram para empresas: [https://business.instagram.com/shopping?locale=es_ES](https://business.instagram.com/shopping?locale=es_ES)
-* Información de TikTok: [https://www.tiktok.com/about?lang=es](https://www.tiktok.com/about?lang=es)
+* TikTok: [https://www.tiktok.com/about?lang=es](https://www.tiktok.com/about?lang=es)
 * TikTok Business: [https://getstarted.tiktok.com/eu-go-tiktok?lang=es](https://getstarted.tiktok.com/eu-go-tiktok?lang=es)  
 
   
