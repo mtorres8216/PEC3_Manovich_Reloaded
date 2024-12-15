@@ -28,7 +28,8 @@ Fecha:
   - [Nuevo medio generado](#item7a)
 - [Conclusión final](#item9)
 - [Referencias y Bibliografía](#item10)
- 
+  
+--- 
     
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
