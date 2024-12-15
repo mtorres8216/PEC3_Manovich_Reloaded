@@ -24,7 +24,7 @@ Fecha:
   - [Hibridación según Manovich](#item3a)
     - [1. Fusión de música y video en tiempo real](#item4a)
     - [2. Creatividad colectiva y viralidad](#item5a)
-    - [3. Expansión de los formatos preexistentes](#item6a)
+    - [3. Expansión hacia el comercio digital](#item6a)
   - [Nuevo medio generado](#item7a)
 - [Conclusión final](#item9)
 - [Referencias y Bibliografía](#item10)
@@ -114,12 +114,9 @@ Este fenómeno no es solo un **proceso de remixing**; es una forma de **crear al
 [Subir](#top)  
 
 <a name="item6a"></a>
-#### **3. Expansión de los formatos preexistentes**
+#### **3. Expansión hacia el comercio digital**
 
-TikTok no solo toma los **videoclips** tradicionales y los adapta al formato digital, sino que los **expande**. Un videoclip en TikTok ya no es solo un **video musical**, sino que se convierte en un **espacio flexible** donde los usuarios pueden **incorporar su propia creatividad**, adaptando el contenido a su estilo personal. Al permitir que los usuarios **sincronicen música** y **personalicen el video** en tiempo real, TikTok transforma lo que tradicionalmente era una experiencia pasiva de ver un videoclip en una **experiencia interactiva**. 
 
-Además, TikTok transforma elementos como las **actuaciones en vivo** o los **conciertos** al permitir que los usuarios compartan **fragmentos** de eventos o incluso los **reemplacen** por representaciones personales. Este tipo de reconfiguración expande lo que originalmente sería solo un video o una grabación en vivo, transformándolos en **acciones creativas** que el usuario puede interpretar y **modificar**.
-     
 [Subir](#top) 
 
 <a name="item7a"></a>
