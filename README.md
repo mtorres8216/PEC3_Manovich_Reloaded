@@ -87,7 +87,7 @@ Instagram no es simplemente una plataforma de fotografía ni una red social. Es 
 <a name="item2a"></a>
 ### Introducción al caso
 
-TikTok es una plataforma innovadora que combina música, video, efectos visuales y participación comunitaria en un entorno dinámico e interactivo. Su diseño intuitivo y sus herramientas accesibles permiten que cualquier usuario sea creador y consumidor al mismo tiempo, rompiendo las barreras entre producción y consumo. Desde la perspectiva de Manovich, TikTok ejemplifica cómo el software reconfigura medios tradicionales en nuevos formatos híbridos que transforman la cultura audiovisual.
+TikTok es una plataforma innovadora que combina música, video, efectos visuales y participación comunitaria en un entorno dinámico e interactivo. Su diseño intuitivo y sus herramientas accesibles permiten que cualquier usuario sea creador y consumidor al mismo tiempo, rompiendo las barreras entre producción y consumo. Desde la perspectiva de Manovich, TikTok ejemplifica cómo el software reconfigura medios tradicionales en nuevos formatos híbridos que transforman la cultura audiovisual. Además, recientemente TikTok ha integrado herramientas de **comercio digital** que permiten a las marcas interactuar con los usuarios a través de anuncios nativos y compras directas desde los videos. Este análisis utiliza las ideas de **Manovich** para explorar cómo TikTok combina y transforma elementos audiovisuales en un **nuevo medio híbrido**.
 
 [Subir](#top) 
  
