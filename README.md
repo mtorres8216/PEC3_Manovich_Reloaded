@@ -133,6 +133,7 @@ Ambas plataformas no solo combinan elementos preexistentes, sino que los redefin
 * Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Mosaic. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 * Página oficial de Instagram: https://www.instagram.com
 * Página oficial de TikTok: https://www.tiktok.com
+  
 [Subir](#top)  
 ----
 
