@@ -31,7 +31,7 @@ Fecha:
   
 --- 
     
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://cdn.pixabay.com/photo/2024/02/15/15/55/ai-generated-8575671_960_720.jpg) 
 
 
 <a name="item1"></a>
@@ -50,6 +50,7 @@ En este ensayo, exploramos cómo **Instagram** y **TikTok** representan ejemplos
 [Subir](#top)
 <a name="item2"></a>
 ## **Caso 1: Instagram como un medio híbrido visual-social**
+![Instagram](https://upload.wikimedia.org/wikipedia/commons/7/7f/Instagram_app_on_smartphone_%28grass_background%29_%28cropped%29.jpg) 
 <a name="item3"></a>
 ### Introducción al caso
 
@@ -97,6 +98,7 @@ Instagram no es solo una plataforma para compartir imágenes, sino un **medio h�
 
 <a name="item1a"></a>
 ## **Caso 2: TikTok como un medio híbrido audiovisual**
+![TikTok](https://images.pexels.com/photos/7481981/pexels-photo-7481981.jpeg) 
 <a name="item2a"></a>
 ### Introducción al caso
 
@@ -167,4 +169,9 @@ Ambas plataformas no solo combinan elementos preexistentes, sino que los redefin
   [Subir](#top)  
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágen CC BY [Santeri Viinamäki](https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background)_(cropped).jpg))
+
+A close-up shot of a smartphone recording a woman sitting on a chair. (2024). [Pexels](https://www.pexels.com/photo/a-close-up-shot-of-a-smartphone-recording-a-woman-sitting-on-a-chair-7481981/). Licencia Pexels (sin necesidad de atribución).
+
+Imagen generada por IA de una mujer. (2024). [Pixabay](https://pixabay.com/es/illustrations/ai-generado-mujer-8575671/). Licencia Pixabay (sin necesidad de atribución).
+
