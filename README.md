@@ -142,6 +142,9 @@ Esta integración no solo transforma la publicidad tradicional, sino que la adap
 
 TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video, comercio electrónico e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
 
+<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/FEa2diI2qgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+
+
 [Subir](#top)  
 
 <a name="item9"></a>
