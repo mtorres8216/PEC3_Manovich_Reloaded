@@ -92,7 +92,7 @@ Este nuevo entorno redefine la interacción entre marcas y consumidores, integra
 [Subir](#top)
 
 <a name="item8"></a>  
-### Nuevo medio generado
+### Obtenemos un nuevo medio híbrido: visual-social-comercial
 
 Instagram no es solo una plataforma para compartir imágenes, sino un **medio híbrido** que fusiona **fotografía**, **video**, **redes sociales** y **comercio digital**. Esta integración de elementos ha transformado la práctica visual tradicional, permitiendo a los usuarios no solo crear contenido, sino también interactuar con él y usarlo como herramienta de comercio. Instagram se posiciona como un espacio único donde convergen la creatividad, la interacción social y el comercio, redefiniendo lo que significa compartir imágenes en la era digital. Desde el punto de vista de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
 
@@ -138,7 +138,7 @@ Esta integración no solo transforma la publicidad tradicional, sino que la adap
 [Subir](#top) 
 
 <a name="item7a"></a>
-### Nuevo medio generado
+### Obtenemos un nuevo medio híbrido: audiovisual y colectivo
 
 TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video, comercio electrónico e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
 
