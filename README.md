@@ -3,10 +3,8 @@
 ### Asignatura de Cultura digital - UOC
 
 
-Autor: 
-
-
-Fecha:
+**Autor: Moisés Torres Serrano**
+**Fecha: 17/12/2024**
 
 <a name="top"></a>
 ## Indice
@@ -18,14 +16,14 @@ Fecha:
     - [1. Fusión de fotografía y software de edición](#item5)
     - [2. Modularidad e interactividad](#item6)
     - [3. Integración del comercio digital](#item7)
-  - [Nuevo medio generado](#item8)
+  
 - [Caso 2: TikTok como un medio híbrido audiovisual](#item1a)
   - [Introducción al caso](#item2a)
   - [Hibridación según Manovich](#item3a)
     - [1. Fusión de música y video en tiempo real](#item4a)
     - [2. Creatividad colectiva y viralidad](#item5a)
     - [3. Expansión hacia el comercio digital](#item6a)
-  - [Nuevo medio generado](#item7a)
+ 
 - [Conclusión final](#item9)
 - [Referencias y Bibliografía](#item10)
   
@@ -91,10 +89,7 @@ Este nuevo entorno redefine la interacción entre marcas y consumidores, integra
 
 [Subir](#top)
 
-<a name="item8"></a>  
-### Obtenemos un nuevo medio híbrido: visual-social-comercial
 
-Instagram no es solo una plataforma para compartir imágenes, sino un **medio híbrido** que fusiona **fotografía**, **video**, **redes sociales** y **comercio digital**. Esta integración de elementos ha transformado la práctica visual tradicional, permitiendo a los usuarios no solo crear contenido, sino también interactuar con él y usarlo como herramienta de comercio. Instagram se posiciona como un espacio único donde convergen la creatividad, la interacción social y el comercio, redefiniendo lo que significa compartir imágenes en la era digital. Desde el punto de vista de Manovich, Instagram demuestra cómo el software puede reconfigurar los medios tradicionales, creando un espacio dinámico donde convergen creatividad, interacción social y comercio en la era digital.
 
 <a name="item1a"></a>
 ## **Caso 2: TikTok como un medio híbrido audiovisual**
@@ -137,14 +132,7 @@ Esta integración no solo transforma la publicidad tradicional, sino que la adap
 
 [Subir](#top) 
 
-<a name="item7a"></a>
-### Obtenemos un nuevo medio híbrido: audiovisual y colectivo
 
-TikTok es más que una red social o una plataforma de videos breves; es un medio híbrido que fusiona música, video, comercio electrónico e interacción social en un formato viral y colaborativo. Transforma la participación en la cultura digital al eliminar las barreras entre creación y consumo. Desde la perspectiva de Manovich, TikTok reconfigura los medios tradicionales al combinar lo técnico, como herramientas de edición, algoritmos y funcionalidades de software, con lo cultural y lo participativo, generando un entorno único en la era digital.
-
-
-
-[Subir](#top)  
 
 <a name="item9"></a>
 ## **Conclusión final**
