@@ -107,11 +107,11 @@ TikTok es una plataforma innovadora que combina música, video, efectos visuales
 <a name="item4a"></a>
 #### **1. Fusión de música y video en tiempo real**
 
-TikTok redefine las prácticas audiovisuales al hibridar elementos tradicionales y tecnológicos en un formato accesible y dinámico. La plataforma combina música, video y herramientas de edición intuitiva que permiten sincronizar automáticamente el audio con las imágenes, eliminando la necesidad de habilidades técnicas avanzadas. Esta integración de disciplinas transforma la creación audiovisual en un proceso accesible tanto para aficionados como para profesionales.
+TikTok **redefine las prácticas audiovisuales** al **hibridar elementos tradicionales y tecnológicos** en un formato **accesible y dinámico**. La plataforma combina **música, video y herramientas de edición intuitiva** que permiten **sincronizar automáticamente el audio con las imágenes**, eliminando la necesidad de habilidades técnicas avanzadas. Esta integración de disciplinas transforma la creación audiovisual en un proceso **accesible tanto para aficionados como para profesionales**.
 
-La hibridación se extiende a la personalización del contenido, donde los usuarios seleccionan canciones de una extensa biblioteca de sonidos, aplican filtros visuales, transiciones y efectos especiales que enriquecen cada producción. Así, cada video resulta de la fusión de técnicas tradicionales con tecnologías digitales avanzadas, creando narrativas únicas y personalizadas.
+La hibridación se extiende a la **personalización del contenido**, donde los usuarios seleccionan canciones de una extensa biblioteca de sonidos, aplican filtros visuales, transiciones y efectos especiales que enriquecen cada producción. Así, cada video resulta de la fusión de técnicas tradicionales con tecnologías digitales avanzadas, creando narrativas únicas y personalizadas.
 
-Según Manovich, la modularidad y la variabilidad son esenciales para los nuevos medios. TikTok ejemplifica esta idea al permitir que los creadores adapten sus producciones según sus preferencias y objetivos, mostrando cómo la tecnología transforma los medios en plataformas híbridas y adaptativas.
+Según Manovich, la **modularidad y la variabilidad** son esenciales para los nuevos medios. TikTok ejemplifica esta idea al **permitir que los creadores adapten sus producciones** según sus preferencias y objetivos, mostrando cómo la tecnología transforma los medios en plataformas híbridas y adaptativas.
 
 [Subir](#top) 
 
@@ -129,7 +129,7 @@ Este fenómeno no es solo un **proceso de remixing**; es una forma de **crear al
 
 TikTok, siguiendo los pasos de Instagram, ha integrado el comercio digital de manera innovadora, permitiendo que los usuarios adquieran productos directamente desde los videos. Según [TikTok Business](https://getstarted.tiktok.com/eu-go-tiktok?lang=es), la plataforma conecta marcas con audiencias globales mediante contenido auténtico y dinámico, que fomenta la interacción en lugar de limitarse a la promoción pasiva.
 
-Esta integración no solo transforma la publicidad tradicional, sino que la adapta a un medio interactivo y participativo, redefiniendo la relación entre creadores, marcas y usuarios. Desde la perspectiva de Manovich, TikTok se posiciona como un medio híbrido al fusionar múltiples formatos —como video, texto e interacción— para expandir las posibilidades de los medios tradicionales. Un ejemplo claro de esta hibridación es la venta online dentro de la red social, que utiliza videos interactivos que combinan imagen, texto y enlaces directos a productos, transformando la experiencia de compra en un proceso dinámico y atractivo.
+Esta integración no solo transforma la publicidad tradicional, sino que la adapta a un medio interactivo y participativo, **redefiniendo** la relación entre creadores, marcas y usuarios. Desde la perspectiva de Manovich, TikTok se posiciona como un medio híbrido al **fusionar múltiples formatos** —como video, texto e interacción— para expandir las posibilidades de los medios tradicionales. Un ejemplo claro de esta hibridación es la venta online dentro de la red social, que utiliza videos interactivos que combinan imagen, texto y enlaces directos a productos, transformando la experiencia de compra en un proceso dinámico y atractivo.
 
 [Subir](#top) 
 
@@ -138,11 +138,11 @@ Esta integración no solo transforma la publicidad tradicional, sino que la adap
 <a name="item9"></a>
 ## **Conclusión final**
 
-Desde la perspectiva de Lev Manovich, la hibridación de medios no se limita a sumar elementos, sino que transforma prácticas culturales y formatos tradicionales mediante el software. Tanto Instagram como TikTok ejemplifican esta transformación, fusionando la fotografía, el video, la música y las redes sociales para crear nuevos medios interactivos.
+Desde la perspectiva de Lev Manovich, la hibridación de medios **no se limita a sumar elementos**, sino que **transforma prácticas culturales y formatos tradicionales** mediante el software. Tanto Instagram como TikTok ejemplifican esta transformación, fusionando la fotografía, el video, la música y las redes sociales para crear nuevos medios interactivos.
 
 Instagram ilustra cómo la modularidad y la integración del software pueden convertir la fotografía en una experiencia participativa y dinámica, mientras que TikTok muestra cómo la música y el video se reconfiguran en un formato colectivo e interactivo, expandiendo los medios tradicionales hacia nuevas formas de representación.
 
-Ambas plataformas no solo combinan elementos preexistentes, sino que los redefinen y generan nuevos medios híbridos que transforman nuestra relación con la creación y el consumo cultural, marcando un cambio significativo en la forma en que experimentamos los medios en la era digital.
+Ambas plataformas no solo combinan elementos preexistentes, sino que los **redefinen** y generan nuevos medios híbridos que transforman nuestra relación con la creación y el consumo cultural, marcando un cambio significativo en la forma en que experimentamos los medios en la era digital.
 
 [Subir](#top)
 
