@@ -140,7 +140,7 @@ Esta integración no solo transforma la publicidad tradicional, sino que la adap
 
 Desde la perspectiva de Lev Manovich, la hibridación de medios **no se limita a sumar elementos**, sino que **transforma prácticas culturales y formatos tradicionales** mediante el software. Tanto Instagram como TikTok ejemplifican esta transformación, fusionando la fotografía, el video, la música y las redes sociales para crear nuevos medios interactivos.
 
-Instagram ilustra cómo la modularidad y la integración del software pueden convertir la fotografía en una experiencia participativa y dinámica, mientras que TikTok muestra cómo la música y el video se reconfiguran en un formato colectivo e interactivo, expandiendo los medios tradicionales hacia nuevas formas de representación.
+Instagram ilustra cómo la hibridación integra imágenes, videos, texto y sonidos en formatos como publicaciones, historias y Reels, combinando creatividad multimedia con interacción social mediante encuestas y colaboraciones, mientras que TikTok muestra cómo la música y el video se reconfiguran en un formato colectivo e interactivo, expandiendo los medios tradicionales hacia nuevas formas de representación.
 
 Ambas plataformas no solo combinan elementos preexistentes, sino que los **redefinen** y generan nuevos medios híbridos que transforman nuestra relación con la creación y el consumo cultural, marcando un cambio significativo en la forma en que experimentamos los medios en la era digital.
 
