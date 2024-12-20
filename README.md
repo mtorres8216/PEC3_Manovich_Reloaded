@@ -149,8 +149,8 @@ Ambas plataformas no solo combinan elementos preexistentes, sino que los **redef
 <a name="item10"></a>
 ## Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Adell, F. (2014). **Remediación, multimedia e hibridación de los medios**. Mosaic. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+* Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+* Adell, Ferran. (2014). Remediación, multimedia e hibridación de los medios. Mosaic. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 * Instagram: [https://about.instagram.com/es-la/blog](https://about.instagram.com/es-la/blog)
 * Instagram para empresas: [https://business.instagram.com/shopping?locale=es_ES](https://business.instagram.com/shopping?locale=es_ES)
 * TikTok: [https://www.tiktok.com/about?lang=es](https://www.tiktok.com/about?lang=es)
